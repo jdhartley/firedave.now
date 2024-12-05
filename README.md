@@ -1,5 +1,5 @@
 # 🔥 [How Many Times Has Dave Been Fired?](https://firedave.now)
-Have you ever wanted to fire [Dave Skuza](https://twitter.com/_dskuza)? Well now you can!
+Have you ever wanted to fire [Dave Skuza](https://github.com/dskuza)? Well now you can!
 
 [Open an issue](https://github.com/jdhartley/firedave.now/issues/new/choose) and watch as [firedave.now](https://firedave.now) updates!
 

@@ -3,6 +3,8 @@ Have you ever wanted to fire [Dave Skuza](https://github.com/dskuza)? Well now y
 
 [Open an issue](https://github.com/jdhartley/firedave.now/issues/new/choose) and watch as [firedave.now](https://firedave.now) updates!
 
+<img alt="dave got fired again... this is fine" src="https://cdn.bsky.app/img/avatar/plain/did:plc:lsis67fz6aeyj7vdyqu2nrqu/bafkreiewexizg35csainybkiyx6x4s6douw72jkpyscbgup3cneuwpq5be@jpeg" width="200">
+
 ## Colophon
 - This repo is powered via GitHub actions. When an issue is created, the workflow automatically increases the fire count and udpates the website. You can see how it works in [this file](https://github.com/jdhartley/firedave.now/blob/main/.github/workflows/main.yml).
 - [The website](https://firedave.now) is hosted by [Netlify](https://netlify.com).
